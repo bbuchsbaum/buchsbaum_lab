@@ -32,7 +32,7 @@ title = "Lingua Memoria -- The Buchsbaum Lab"
   
   # Text color (true=light or false=dark).
   text_color_light = true
-
++++
 
 
 In the Buchsbaum Laboratory we study how conscious memories are formed, maintained, and reactivated in the brain. 
