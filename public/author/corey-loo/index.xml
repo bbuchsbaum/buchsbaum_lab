@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corey Loo | Lingua Memoria</title>
+    <link>/author/corey-loo/</link>
+      <atom:link href="/author/corey-loo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Corey Loo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/corey-loo/avatar_hue196028ca75d822328e3e7ab0bb3563b_51144_270x270_fill_lanczos_center_2.png</url>
+      <title>Corey Loo</title>
+      <link>/author/corey-loo/</link>
+    </image>
+    
+  </channel>
+</rss>

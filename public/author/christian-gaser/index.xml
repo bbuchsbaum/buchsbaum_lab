@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Gaser | Lingua Memoria</title>
+    <link>/author/christian-gaser/</link>
+      <atom:link href="/author/christian-gaser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Gaser</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Christian Gaser</title>
+      <link>/author/christian-gaser/</link>
+    </image>
+    
+    <item>
+      <title>Ventricular Enlargement in Schizophrenia Related to Volume Reduction ...</title>
+      <link>/publication/gaser-2004-a/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/gaser-2004-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ventricular Enlargement in Schizophrenia Related to Volume Reduction of the Thalamus, Striatum, and Superior Temporal Cortex</title>
+      <link>/publication/gaser-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/gaser-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deformation-based morphometry and its relation to conventional volumetry of brain lateral ventricles in MRI</title>
+      <link>/publication/gaser-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/gaser-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles N. Landen | Lingua Memoria</title>
+    <link>/author/charles-n.-landen/</link>
+      <atom:link href="/author/charles-n.-landen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles N. Landen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Charles N. Landen</title>
+      <link>/author/charles-n.-landen/</link>
+    </image>
+    
+    <item>
+      <title>The tumor-associated glycosyltransferase ST6Gal-I regulates stem cell transcription factors and confers a cancer stem cell phenotype</title>
+      <link>/publication/schultz-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/schultz-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

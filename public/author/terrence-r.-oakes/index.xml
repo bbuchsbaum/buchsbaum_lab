@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terrence R. Oakes | Lingua Memoria</title>
+    <link>/author/terrence-r.-oakes/</link>
+      <atom:link href="/author/terrence-r.-oakes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Terrence R. Oakes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Terrence R. Oakes</title>
+      <link>/author/terrence-r.-oakes/</link>
+    </image>
+    
+    <item>
+      <title>D2/D3 dopamine receptor binding with [F-18]fallypride in thalamus and cortex of patients with schizophrenia</title>
+      <link>/publication/buchsbaum-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thalamic and prefrontal FDG uptake in never medicated patients with schizophrenia</title>
+      <link>/publication/lehrer-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/lehrer-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

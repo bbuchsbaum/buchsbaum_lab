@@ -1,0 +1,13 @@
+---
+title: "Is there anything special about working memory?"
+date: 2012-01-01
+publishDate: 2020-06-01T12:40:56.921369Z
+authors: ["Bradley R. Buchsbaum", "Mark D'Esposito"]
+publication_types: ["6"]
+abstract: "In a recent article entitled ‘What has functional neuroimaging told us about the mind (so far)?' Coltheart ( 2006 ) concludes that the answer to this question is: ‘nothing'. The essen- tial reason for this gloomy assessment about the value of functional neuroimaging for cognitive psychology boils down to this essential argument, namely, that since psycho- logical theories do not make predictions about the brain, it follows that such theories are necessarily consistent with all possible brain imaging results. Of course, while this state- ment is true, it is also tautological – i.e. it is true by definition. Coltheart's conclusion rests on the premise that psychological theories do not and cannot make predictions about the brain. A hypothetical philosopher of metaphysics might ask the question: ‘What has physics told us about metaphysics?' to which he might answer that because metaphysics is the science of the non-physical, physics by definition has nothing to say about meta- physics. Unlike metaphysics and physics, however, most would agree that the study of the mind and the study of the brain are fundamentally related if not, indeed, one and the same endeavour. There is therefore absolutely no reason why psychological theories should not refer to and make explicit predictions about brain function, nor is there any reason to think such theories would, upon making contact with neuroscience, somehow cease to be ‘psychological'. Indeed, the four chapters in this section all stand out as exam- ples, contra to Coltheart claims, that psychological theories can and do make predictions about the brain, and that, in the words of Postle (Chapter 8 , p. 2), ‘the distinction between strictly cognitive vs. strictly neural science is often no longer appropriate."
+featured: false
+publication: "*Neuroimaging of Human Memory: Linking Cognitive Processes to Neural Systems*"
+tags: ["Brain-imaging data", "Brain-imaging tools", "Long-term memory", "Memory", "Working memory"]
+doi: "10.1093/acprof:oso/9780199217298.003.0014"
+---
+

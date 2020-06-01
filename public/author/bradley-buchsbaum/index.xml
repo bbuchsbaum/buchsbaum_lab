@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradley Buchsbaum | Lingua Memoria</title>
+    <link>/author/bradley-buchsbaum/</link>
+      <atom:link href="/author/bradley-buchsbaum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bradley Buchsbaum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bradley Buchsbaum</title>
+      <link>/author/bradley-buchsbaum/</link>
+    </image>
+    
+    <item>
+      <title>Encoding and retrieval eye movements mediate age differences in pattern completion</title>
+      <link>/publication/wynn-2020-encoding/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wynn-2020-encoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural substrates for verbal working memory in deaf signers: fMRI study and lesion case report</title>
+      <link>/publication/buchsbaum-2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditory-motor interaction revealed by fMRI: Speech, music, and working memory in area Spt</title>
+      <link>/publication/hickok-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/hickok-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

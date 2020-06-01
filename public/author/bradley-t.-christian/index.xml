@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradley T. Christian | Lingua Memoria</title>
+    <link>/author/bradley-t.-christian/</link>
+      <atom:link href="/author/bradley-t.-christian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bradley T. Christian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bradley T. Christian</title>
+      <link>/author/bradley-t.-christian/</link>
+    </image>
+    
+    <item>
+      <title>D2/D3 dopamine receptor binding with [F-18]fallypride correlates of executive function in medication-näive patients with schizophrenia</title>
+      <link>/publication/vyas-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/vyas-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18F-Fallypride binding potential in patients with schizophrenia compared to healthy controls</title>
+      <link>/publication/lehrer-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lehrer-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D2/D3 dopamine receptor binding with [F-18]fallypride in thalamus and cortex of patients with schizophrenia</title>
+      <link>/publication/buchsbaum-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring dopamine neuromodulation in the thalamus: Using [F-18]fallypride PET to study dopamine release during a spatial attention task</title>
+      <link>/publication/christian-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/christian-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thalamic and prefrontal FDG uptake in never medicated patients with schizophrenia</title>
+      <link>/publication/lehrer-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/lehrer-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

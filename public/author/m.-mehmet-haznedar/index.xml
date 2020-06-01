@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Mehmet Haznedar | Lingua Memoria</title>
+    <link>/author/m.-mehmet-haznedar/</link>
+      <atom:link href="/author/m.-mehmet-haznedar/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Mehmet Haznedar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Mehmet Haznedar</title>
+      <link>/author/m.-mehmet-haznedar/</link>
+    </image>
+    
+    <item>
+      <title>Relative glucose metabolic rate higher in white matter in patients with schizophrenia</title>
+      <link>/publication/buchsbaum-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of fluoxetine on regional cerebral metabolism in autistic spectrum disorders: A pilot study</title>
+      <link>/publication/buchsbaum-2001-a/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2001-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prefrontal cortex glucose metabolism and startle eyeblink modification abnormalities in unmedicated schizophrenia patients</title>
+      <link>/publication/hazlett-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/hazlett-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

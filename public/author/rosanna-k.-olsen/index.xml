@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosanna K. Olsen | Lingua Memoria</title>
+    <link>/author/rosanna-k.-olsen/</link>
+      <atom:link href="/author/rosanna-k.-olsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rosanna K. Olsen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rosanna K. Olsen</title>
+      <link>/author/rosanna-k.-olsen/</link>
+    </image>
+    
+    <item>
+      <title>Fixation reinstatement supports visuospatial memory in older adults</title>
+      <link>/publication/wynn-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wynn-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using fMRI to understand event construction in developmental amnesia</title>
+      <link>/publication/rabin-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rabin-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human dorsal and ventral auditory streams subserve rehearsal-based and echoic processes during verbal working memory</title>
+      <link>/publication/buchsbaum-2005-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2005-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading, hearing, and the planum temporale</title>
+      <link>/publication/buchsbaum-2005-c/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2005-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

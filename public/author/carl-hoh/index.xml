@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carl Hoh | Lingua Memoria</title>
+    <link>/author/carl-hoh/</link>
+      <atom:link href="/author/carl-hoh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carl Hoh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Carl Hoh</title>
+      <link>/author/carl-hoh/</link>
+    </image>
+    
+    <item>
+      <title>Serotonin transporter binding after recovery from bulimia nervosa</title>
+      <link>/publication/pichika-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pichika-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+---
+title: "Relative glucose metabolic rate higher in white matter in patients with schizophrenia"
+date: 2007-01-01
+publishDate: 2020-06-01T12:40:56.923114Z
+authors: ["Monte S. Buchsbaum", "Bradley R. Buchsbaum", "Erin A. Hazlett", "M. Mehmet Haznedar", "Randall Newmark", "Cheuk Y. Tang", "Patrick R. Hof"]
+publication_types: ["2"]
+abstract: "Objective: There is increasing evidence demonstrating that circuits involving the frontal lobe, striatum, temporal lobe, and cerebellum are abnormal in individuals with schizophrenia, which suggests that metabolic activity in the white matter connecting these areas should be investigated. Method: The authors obtained [18F]fluorodeoxyglucose (FDG) positron emission tomography (PET) and matching T1-weighted magnetic resonance imaging (MRI) on 170 subjects. Participants were 103 normal volunteers and 67 unmedicated patients with schizophrenia (N=61) or schizoaffective disorder (N=6). The images were coregistered and warped to standard space for significance probability mapping. Results: Compared with normal volunteers, patients showed higher relative metabolic rates in the frontal white matter, corpus callosum, superior longitudinal fasciculus, and white matter core of the temporal lobe. Elevated activity in white matter was most pronounced in the center of large white matter tracts, especially the frontal parts of the brain and the internal capsule. The white matter elevation did not appear to be entirely related to changes in gray matter/white matter brain proportions, whole brain metabolic rate bias, or excess head motion in patients, but this cannot be ruled out without absolute glucose determinations. Patients also showed significantly lower relative glucose metabolism in the frontal and temporal lobes, caudate nucleus, cingulate gyrus, and mediodorsal nucleus of the thalamus relative to normal volunteers, which is consistent with earlier studies. Conclusions: In comparisons of unmedicated schizophrenia patients with normal volunteers, relative metabolic increases are apparent in white matter in patients with schizophrenia as well as decreases in gray matter. Inefficiency in brain circuitry, defects in white matter leading to enhanced energy need, white matter damage, and alterations in axon packing density are among the possible explanations for these schizophrenia-related findings of relatively increased metabolism in white matter."
+featured: false
+publication: "*American Journal of Psychiatry*"
+doi: "10.1176/ajp.2007.164.7.1072"
+---
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fMRI | Lingua Memoria</title>
+    <link>/tag/fmri/</link>
+      <atom:link href="/tag/fmri/index.xml" rel="self" type="application/rss+xml" />
+    <description>fMRI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>fMRI</title>
+      <link>/tag/fmri/</link>
+    </image>
+    
+    <item>
+      <title>Using fMRI to understand event construction in developmental amnesia</title>
+      <link>/publication/rabin-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rabin-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of rehearsal rate and memory load on verbal working memory</title>
+      <link>/publication/fegen-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/fegen-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repetition suppression and reactivation in auditory-verbal short-term recognition memory</title>
+      <link>/publication/buchsbaum-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genetic model for understanding higher order visual processing: Functional interactions of the ventral visual stream in williams syndrome</title>
+      <link>/publication/sarpal-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/sarpal-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural substrates for verbal working memory in deaf signers: fMRI study and lesion case report</title>
+      <link>/publication/buchsbaum-2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading, hearing, and the planum temporale</title>
+      <link>/publication/buchsbaum-2005-c/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2005-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marie St-Laurent | Lingua Memoria</title>
+    <link>/author/marie-st-laurent/</link>
+      <atom:link href="/author/marie-st-laurent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marie St-Laurent</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Marie St-Laurent</title>
+      <link>/author/marie-st-laurent/</link>
+    </image>
+    
+    <item>
+      <title>Representation of viewed and recalled film clips in patterns of brain activity in a person with developmental amnesia</title>
+      <link>/publication/st-2020-representation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/st-2020-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Multiple Retrievals Affect Neural Reactivation in Young and Older Adults</title>
+      <link>/publication/st-2019-multiple/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/st-2019-multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye Movement Reinstatement and Neural Reactivation During Mental Imagery</title>
+      <link>/publication/bone-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bone-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed patterns of reactivation predict vividness of recollectio</title>
+      <link>/publication/st-laurent-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/st-laurent-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

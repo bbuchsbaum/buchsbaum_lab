@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Barker | Lingua Memoria</title>
+    <link>/author/ryan-barker/</link>
+      <atom:link href="/author/ryan-barker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan Barker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/ryan-barker/avatar_hue196028ca75d822328e3e7ab0bb3563b_41080_270x270_fill_lanczos_center_2.png</url>
+      <title>Ryan Barker</title>
+      <link>/author/ryan-barker/</link>
+    </image>
+    
+  </channel>
+</rss>

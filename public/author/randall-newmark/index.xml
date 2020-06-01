@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Randall Newmark | Lingua Memoria</title>
+    <link>/author/randall-newmark/</link>
+      <atom:link href="/author/randall-newmark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Randall Newmark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Randall Newmark</title>
+      <link>/author/randall-newmark/</link>
+    </image>
+    
+    <item>
+      <title>Relative glucose metabolic rate higher in white matter in patients with schizophrenia</title>
+      <link>/publication/buchsbaum-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/buchsbaum-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
