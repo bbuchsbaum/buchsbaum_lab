@@ -34,10 +34,6 @@ title = "Lingua Memoria -- The Buchsbaum Lab"
   text_color_light = true
 
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-+++
 
 In the Buchsbaum Laboratory we study how conscious memories are formed, maintained, and reactivated in the brain. 
 We use functional neuroimging, eye-tracking, and computational modeling to better understand the nature of memory.
