@@ -1,54 +1,57 @@
-+++
+---
 # Display name
-title = "Stephen Rhodes"
+title: Stephen Rhodes
 
-# Username (this should match the folder name)
-authors = ["rhodes"]
+authors:
+- rhodes
 
-# Is this the primary user of the site?
-superuser = false
+superuser: false
 
-# Role/position
-role = "Post-doctoral fellow"
+role: Post-doctoral fellow
 
-# Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Rotman Research Institute, Baycrest", url = "" },
-{name="Department of Psychology, University of Toronto", url=""}]
+organizations:
+- name: Rotman Research Institute, Baycrest
+  url: ""
 
-# Short bio (displayed in user profile at end of posts)
-#bio = "My research interests the cognitive neruoscience of memory and language, mental imagery, and functional #neuroimaging methods."
+interests:
+- Working Memory
+- Episodic Memory
+- Cognitive Modeling
+- Bayesian Data Analysis
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "srhodes@research.baycrest.org"
+education:
+  courses:
+  - course: PhD Psychology
+    institution: The University of Edinburgh
+    year: 2016
+  - course: MSc Human Cognitive Neuropsychology
+    institution: The University of Edinburgh
+    year: 2012
+  - course: BSc Psychology
+    institution: University of Leeds
+    year: 2011
 
-# List (academic) interests or hobbies
-interests = []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:srhodes@research.baycrest.org
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/stephenrho
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=VXD5emcAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/stephenrho
+- icon: cv
+  icon_pack: ai
+  link: http://stephenrho.github.io/files/cv_rhodes.pdf
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Post-Docs"]
+email: "srhodes@research.baycrest.org"
 
-# List qualifications (such as academic degrees)
+user_groups:
+- Post-Docs
 
-#[[education.courses]]
-#  course = "BS in Bio-Psychology"
-#  institution = "University of California, Berkeley"
-#  year = 1997
-
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
-
-+++
+bio: My research focuses on adult age differences in working memory and theoretical issues in the field of working memory more generally. I'm particularly interested in using cognitive models to measure underlying processes (more at http://stephenrho.github.io).
+---
