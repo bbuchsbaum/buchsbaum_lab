@@ -5,12 +5,20 @@
     <link>/author/bradley-r.-buchsbaum/</link>
       <atom:link href="/author/bradley-r.-buchsbaum/index.xml" rel="self" type="application/rss+xml" />
     <description>Bradley R. Buchsbaum</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bradley R. Buchsbaum</title>
       <link>/author/bradley-r.-buchsbaum/</link>
     </image>
+    
+    <item>
+      <title>Beware (Surprisingly Common) Left-Right Flips in Your MRI Data: An Efficient and Robust Method to Check MRI Dataset Consistency Using AFNI</title>
+      <link>/publication/10-3389-fninf-2020-00018/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/10-3389-fninf-2020-00018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fixation reinstatement supports visuospatial memory in older adults</title>

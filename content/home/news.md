@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 44  # Order that this section will appear.
 
 title = "News"
 subtitle = ""
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "Navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -50,4 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-- 04/08/2020 Jordana Wynn successfully defends her dissertation!
+
+- 04/08/2020 Jordana Wynn successfully defends her dissertation! We wish her luck at her new position as a post-doctoral fellow in Dan Schachter's lab at Harvard.
+

@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>/post/cog-process/</loc>
+    <lastmod>2020-06-01T08:56:55-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -53,12 +58,27 @@
   </url>
   
   <url>
+    <loc>/publication/10-3389-fninf-2020-00018/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/bradley-buchsbaum/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/bradley-r-buchsbaum/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bradley-r.-buchsbaum/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-r.-glen/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,6 +133,11 @@
   </url>
   
   <url>
+    <loc>/author/paul-a.-taylor/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -129,6 +154,16 @@
   
   <url>
     <loc>/publication/st-2020-representation/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/richard-c.-reynolds/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-w.-cox/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,8 +188,28 @@
   </url>
   
   <url>
+    <loc>/publication/buchsbaum-2019-sensorimotor/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/st-2019-multiple/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mark-desposito/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -164,11 +219,6 @@
   
   <url>
     <loc>/author/alex-decastro/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bradley-r.-buchsbaum/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -348,32 +398,12 @@
   </url>
   
   <url>
-    <loc>/author/amber-k.-oconnor/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/andrew-t.-holdbrooks/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/asaf-gilboa/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/asmi-chakraborty/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/autobiographical-memory/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bradley-k.-yoder/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -388,17 +418,7 @@
   </url>
   
   <url>
-    <loc>/author/charles-n.-landen/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/cheryl-l.-grady/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/christopher-a.-klug/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -408,17 +428,7 @@
   </url>
   
   <url>
-    <loc>/author/daniel-c.-bullard/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/developmental-amnesia/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/donald-j.-buchsbaum/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -463,22 +473,7 @@
   </url>
   
   <url>
-    <loc>/author/karina-j.-yoon/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/matthew-j.-schultz/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/michael-b.-bone/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michael-g.-conner/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -493,17 +488,7 @@
   </url>
   
   <url>
-    <loc>/author/patsy-g.-oliver/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/r.-shayna-rosenbaum/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/rebecca-c.-arend/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -518,11 +503,6 @@
   </url>
   
   <url>
-    <loc>/author/robert-a.-kesterson/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/scanpath/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -533,27 +513,12 @@
   </url>
   
   <url>
-    <loc>/author/susan-l.-bellis/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/schultz-2016/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/rabin-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/visual-search/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/william-e.-grizzle/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -584,11 +549,6 @@
   
   <url>
     <loc>/publication/rose-2015/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mark-desposito/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1529,6 +1489,10 @@
   
   <url>
     <loc>/author/michael-bone/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/nick-hoang/</loc>
   </url>
   
   <url>
