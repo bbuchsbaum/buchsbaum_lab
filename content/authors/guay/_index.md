@@ -1,54 +1,56 @@
-+++
+---
 # Display name
-title = "Carolyn Guay"
+title: Carolyn Guay
 
-# Username (this should match the folder name)
-authors = ["guay"]
+authors:
+- guay
 
-# Is this the primary user of the site?
-superuser = false
+superuser: false
 
-# Role/position
-role = "Graduate Student"
+role: Graduate Student
 
-# Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Rotman Research Institute, Baycrest", url = "" },
-{name="Department of Psychology, University of Toronto", url=""}]
+organizations:
+- name: Rotman Research Institute, Baycrest
+  url: ""
+- name: Department of Psychology, University of Toronto
+  url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio = "My research interests the cognitive neruoscience of memory and language, mental imagery, and functional neuroimaging methods."
+interests:
+- Aging
+- Working Memory
+- Cognitive Control
+- Science Communication and Teaching
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "cguay@research.baycrest.org"
+education:
+  courses:
+  - course: MA in Psychology
+    institution: University of Toronto
+    year: 2018
+  - course: BA in Psychology
+    institution: University of Waterloo
+    year: 2016
 
-# List (academic) interests or hobbies
-interests = []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:rbarker@research.baycrest.org
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: 
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/CarolynGuay
+# - icon: cv
+#   icon_pack: ai
+#   link: 
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/carolyn_guay
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Graduate Students"]
+email: "cguay@research.baycrest.org"
 
-# List qualifications (such as academic degrees)
+user_groups:
+- Graduate Students
 
-#[[education.courses]]
-#  course = "BS in Bio-Psychology"
-#  institution = "University of California, Berkeley"
-#  year = 1997
-
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
-
-+++
+bio: My research considers how age-related neural changes affect the way items are represented in working memory. I am particularly interested in how changes in cognitive control over item representations can lead to the memory deficits and benefits observed in healthy aging.
+---
