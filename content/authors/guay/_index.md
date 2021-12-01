@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carolyn Guay
+title: Carolyn (Guay) Davison
 
 authors:
 - guay
@@ -33,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rbarker@research.baycrest.org
+  link: mailto:cguay@research.baycrest.org
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: 
@@ -43,9 +43,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: 
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/carolyn_guay
+ - icon: twitter
+   icon_pack: fab
+   link: https://twitter.com/carolyn_guay
 
 email: "cguay@research.baycrest.org"
 
